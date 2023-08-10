@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	printf("Programming is like building a multilingual puzzle\n") ;
-	return (0) ;
+	put("\"Programming is like building a multilingual puzzle");
+	return(0);
 }
 
